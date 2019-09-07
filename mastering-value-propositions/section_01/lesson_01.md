@@ -125,3 +125,11 @@ Lessons Learned
 ![screenshot_036](../assets/screenshot_036.png)
 
 ### STEP 7: Exercise
+  
+To complete this exercise:
+
+- Print out or draw a [Customer Profile](../../resources/value-proposition-supporting-tools/the-customer-profile.pdf)
+- Don't write on the canvas. Use sticky notes instead so you can move things around. Only write one idea per sticky note and don't use bullet points.
+- Use the [Customer Jobs Trigger Questions](../resources/value-proposition-supporting-tools/customer-gains-trigger-questions.pdf) if you need help listing your customer's jobs.
+- Make sure you think of the jobs that really matter to your customers beyond those related directly to your products and services.
+
