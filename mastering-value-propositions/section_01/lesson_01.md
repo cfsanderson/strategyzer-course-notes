@@ -87,6 +87,41 @@ Refer to the [Customer Jobs Trigger Questions](../resources/value-proposition-su
 ![screenshot_018](../assets/screenshot_018.png)
 
 
-### STEP 6: Unbundling Customers
+### STEP 6: Unbundling Customer Profiles
+
+Business-to-business customers are normally composed of several customer segments. They should be "unbundled" into separate customer profiles.
+
+Ask yourself which customer profiles you need to unbundle in a sometimes complex value chain. Define for which unbundled customers you need to map out a detailed Value Proposition Canvas.
+
+![screenshot_019](../assets/screenshot_019.png)
+![screenshot_020](../assets/screenshot_020.png)
+
+#### Business
+![screenshot_021](../assets/screenshot_021.png)
+![screenshot_022](../assets/screenshot_022.png)
+![screenshot_023](../assets/screenshot_023.png)
+![screenshot_024](../assets/screenshot_024.png)
+![screenshot_025](../assets/screenshot_025.png)
+![screenshot_026](../assets/screenshot_026.png)
+
+#### Families
+Presumed:
+
+![screenshot_027](../assets/screenshot_027.png)
+![screenshot_028](../assets/screenshot_028.png)
+![screenshot_029](../assets/screenshot_029.png)
+![screenshot_030](../assets/screenshot_030.png)
+![screenshot_031](../assets/screenshot_031.png)
+![screenshot_032](../assets/screenshot_032.png)
+![screenshot_033](../assets/screenshot_033.png)
+
+Reality:
+
+![screenshot_034](../assets/screenshot_034.png)
+![screenshot_035](../assets/screenshot_035.png)
+
+Lessons Learned
+
+![screenshot_036](../assets/screenshot_036.png)
 
 ### STEP 7: Exercise
