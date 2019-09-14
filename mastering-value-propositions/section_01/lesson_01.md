@@ -64,6 +64,7 @@ Old way vs "Customer Jobs" way
 ### STEP 4: Exercise - Jobs-To-Be-Done in Air Travel
 Example: Imagine you are traveling by airplane to a business meeting. What jobs are you trying to get done as a business traveler?
 
+```
 - find a ride to the airport
 - get to the hotel
 - entertainment (books, magazines, etc.)
@@ -81,7 +82,7 @@ Example: Imagine you are traveling by airplane to a business meeting. What jobs 
 - maintain healthy eating habits while traveling
 - maintain workout schedule while traveling
 - find a place to workout (run) in foreign location
-
+```
 
 ### STEP 5: Job Types
 - 1) Function - tasks customers try to perform
