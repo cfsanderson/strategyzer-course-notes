@@ -1,3 +1,18 @@
+- [SECTION 1: Getting Started with the Value Proposition Canvas](#section-1-getting-started-with-the-value-proposition-canvas)
+  - [LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done](#lesson-1-introduction-to-the-value-proposition-canvas-and-jobs-to-be-done)
+    - [STEP 1: Welcome](#step-1-welcome)
+    - [STEP 2: Introduction](#step-2-introduction)
+    - [STEP 3: Customer Jobs-To-Be-Done](#step-3-customer-jobs-to-be-done)
+      - [Jobs-To-Be-Done](#jobs-to-be-done)
+    - [STEP 4: Exercise - Jobs-To-Be-Done in Air Travel](#step-4-exercise---jobs-to-be-done-in-air-travel)
+    - [STEP 5: Job Types](#step-5-job-types)
+    - [STEP 6: Unbundling Customer Profiles](#step-6-unbundling-customer-profiles)
+      - [Business](#business)
+      - [Families](#families)
+    - [STEP 7: Exercise](#step-7-exercise)
+      - [Foresight Team (Customers)](#foresight-team-customers)
+
+------------  
 # SECTION 1: Getting Started with the Value Proposition Canvas
 
 ## LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done
@@ -130,6 +145,43 @@ To complete this exercise:
 
 - Print out or draw a [Customer Profile](../../resources/value-proposition-supporting-tools/the-customer-profile.pdf)
 - Don't write on the canvas. Use sticky notes instead so you can move things around. Only write one idea per sticky note and don't use bullet points.
-- Use the [Customer Jobs Trigger Questions](../resources/value-proposition-supporting-tools/customer-gains-trigger-questions.pdf) if you need help listing your customer's jobs.
+- Use the [Customer Jobs Trigger Questions](../../resources/value-proposition-supporting-tools/customer-jobs-trigger-questions.pdf) if you need help listing your customer's jobs.
 - Make sure you think of the jobs that really matter to your customers beyond those related directly to your products and services.
 
+#### Foresight Team (Customers)
+
+**Request:**
+- receive requests through email and refined/scoped into requirements
+- [ ] intake RFIs
+- [ ] qualify workable RFIs and prioritize
+- [ ] refine RFI assumptions
+- [ ] define desired outcomes
+- [ ] define actual scope of work to be done
+- [ ] translate scope into specific requirements
+
+**Task:**
+- echo/wiggle (wifi access point mapping) passive signal collection
+  - incorporate into mobile app?
+- map it
+  - Google earth or another tool to create project area (polygon)
+  - transferred to QGIS
+  - turned into a grid (automagically would be nice)
+    - multiple surveys
+    - grids create tangible quantitative data on done-ness
+    - dependent on different jobs in each sector
+    - annotate
+  - communicated to Skribe
+    - added as a tile layer in Fulcrum
+      - updated 
+    - communicate through Intercom (browser portal)
+**Collect**
+- manually pair info in Fulcrum with sni-internal
+- verifying their location with Wiggle
+- common operating perspective (kml or shapefile)
+- Project Managemnt app in Fulcrum
+  - don't know the number of records without looking at individual accounts
+  - track financial status
+  - track teams and project managers
+**Validate**
+- 
+**Deliver**
