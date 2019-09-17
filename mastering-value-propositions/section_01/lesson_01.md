@@ -1,17 +1,40 @@
 # SECTION 1: Getting Started with the Value Proposition Canvas
+- [SECTION 1: Getting Started with the Value Proposition Canvas](#section-1-getting-started-with-the-value-proposition-canvas)
+  - [LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done](#lesson-1-introduction-to-the-value-proposition-canvas-and-jobs-to-be-done)
+    - [STEP 1: Welcome](#step-1-welcome)
+    - [STEP 2: Introduction](#step-2-introduction)
+    - [STEP 3: Customer Jobs-To-Be-Done](#step-3-customer-jobs-to-be-done)
+      - [Jobs-To-Be-Done](#jobs-to-be-done)
+      - [Lessons Learned](#lessons-learned)
+    - [STEP 4: Exercise - Jobs-To-Be-Done in Air Travel](#step-4-exercise---jobs-to-be-done-in-air-travel)
+    - [STEP 5: Job Types](#step-5-job-types)
+      - [Lessons Learned](#lessons-learned-1)
+    - [STEP 6: Unbundling Customer Profiles](#step-6-unbundling-customer-profiles)
+      - [Business](#business)
+      - [Families](#families)
+      - [Lessons Learned](#lessons-learned-2)
+    - [STEP 7: Exercise](#step-7-exercise)
+  - [LESSON 2: Customer Pains and Customer Gains](#lesson-2-customer-pains-and-customer-gains)
+    - [STEP 1: Lesson Objectives](#step-1-lesson-objectives)
+    - [STEP 2: Customer Pains](#step-2-customer-pains)
+      - [Lessons Learned](#lessons-learned-3)
 
+___
 ## LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done
 
+___
 ### STEP 1: Welcome
 
 In this first lesson, we introduce the Value Proposition Canvas and how it can help you tell a story about the value your products and services create for customers. After this introduction, you will dive right into the heart of the Value Propositions Canvas by exploring the jobs-to-be done concept, customer pains, and customer gains. 
 
+___
 ### STEP 2: Introduction  
 
 [RESOURCE: The Value Proposition Canvas](/resources/canvases-and-main-tools/the-value-proposition-canvas.pdf)
 
 [Video](https://platform.strategyzer.com/training/courses/mastering-value-propositions/1/1/2)
 
+___
 ### STEP 3: Customer Jobs-To-Be-Done
 
 The jobs-to-be done framework is the first of six building blocks within the Value Proposition Canvas. This method is different from traditional marketing approaches.
@@ -44,8 +67,13 @@ Old way vs "Customer Jobs" way
 ![screenshot_008](../assets/screenshot_008.png)
 ![screenshot_009](../assets/screenshot_009.png)
 ![screenshot_010](../assets/screenshot_010.png)
-![screenshot_011](../assets/screenshot_011.png)
 
+#### Lessons Learned
+- the jobs-to-be-done approach focuses on what people are trying to get done, not just who they are and what they want
+- customer jobs remain relatively stable over time, whereas value propositions (i.e. products & services) may change dramatically
+- customers hire products and services to help them get a job done in a particular circumstance.
+
+___
 ### STEP 4: Exercise - Jobs-To-Be-Done in Air Travel
 Example: Imagine you are traveling by airplane to a business meeting. What jobs are you trying to get done as a business traveler?
 
@@ -68,6 +96,7 @@ Example: Imagine you are traveling by airplane to a business meeting. What jobs 
 - find a place to workout (run) in foreign location
 
 
+___
 ### STEP 5: Job Types
 - 1) Function - tasks customers try to perform
 - 2) Social - how customer want to be perceived by others
@@ -84,9 +113,12 @@ Refer to the [Customer Jobs Trigger Questions](../resources/value-proposition-su
 ![screenshot_015](../assets/screenshot_015.png)
 ![screenshot_016](../assets/screenshot_016.png)
 ![screenshot_017](../assets/screenshot_017.png)
-![screenshot_018](../assets/screenshot_018.png)
 
+#### Lessons Learned
+- there are four types of jobs: functional, social, emotional, and supporting
+- rank which jobs are really important to customers and which ones are insignificant
 
+___
 ### STEP 6: Unbundling Customer Profiles
 
 Business-to-business customers are normally composed of several customer segments. They should be "unbundled" into separate customer profiles.
@@ -120,16 +152,42 @@ Reality:
 ![screenshot_034](../assets/screenshot_034.png)
 ![screenshot_035](../assets/screenshot_035.png)
 
-Lessons Learned
+#### Lessons Learned
+- In some contexts like B2B or families you need to "unbundle" the customer into separate cutomer profiles.
+- Customer types could be end users, influencers, recommenders, economic buyers, decision makers, and saboteurs.
+- Each customer profile has its own Value Proposition Canvas.
 
-![screenshot_036](../assets/screenshot_036.png)
-
+___
 ### STEP 7: Exercise
   
 To complete this exercise:
 
 - Print out or draw a [Customer Profile](../../resources/value-proposition-supporting-tools/the-customer-profile.pdf)
 - Don't write on the canvas. Use sticky notes instead so you can move things around. Only write one idea per sticky note and don't use bullet points.
-- Use the [Customer Jobs Trigger Questions](../resources/value-proposition-supporting-tools/customer-gains-trigger-questions.pdf) if you need help listing your customer's jobs.
+- Use the [Customer Jobs Trigger Questions](../../resources/value-proposition-supporting-tools/customer-gains-trigger-questions.pdf) if you need help listing your customer's jobs.
 - Make sure you think of the jobs that really matter to your customers beyond those related directly to your products and services.
+
+___
+## LESSON 2: Customer Pains and Customer Gains  
+
+___
+### STEP 1: Lesson Objectives  
+Pains are the negative outcomes that your customers want to avoid. Gains are the positive outcomes that your customers aim to achieve.  
+
+___
+### STEP 2: Customer Pains  
+
+![screenshot_037](../assets/screenshot_037.png)
+![screenshot_038](../assets/screenshot_038.png)
+![screenshot_039](../assets/screenshot_039.png)
+![screenshot_040](../assets/screenshot_040.png)
+![screenshot_041](../assets/screenshot_041.png)
+![screenshot_042](../assets/screenshot_042.png)
+![screenshot_043](../assets/screenshot_043.png)
+
+#### Lessons Learned  
+- there are 3 types of pains: undesired outcomes, problems and dislikes / obstacles / risks
+- rank which pains customers perceive as severe and which ones as moderate
+- add pains one job at a time or in free form
+
 
