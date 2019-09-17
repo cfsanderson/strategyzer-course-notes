@@ -1,3 +1,24 @@
+- [SECTION 1: Getting Started with the Value Proposition Canvas](#section-1-getting-started-with-the-value-proposition-canvas)
+  - [LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done](#lesson-1-introduction-to-the-value-proposition-canvas-and-jobs-to-be-done)
+    - [STEP 1: Welcome](#step-1-welcome)
+    - [STEP 2: Introduction](#step-2-introduction)
+    - [STEP 3: Customer Jobs-To-Be-Done](#step-3-customer-jobs-to-be-done)
+      - [Jobs-To-Be-Done](#jobs-to-be-done)
+      - [Lessons Learned](#lessons-learned)
+    - [STEP 4: Exercise - Jobs-To-Be-Done in Air Travel](#step-4-exercise---jobs-to-be-done-in-air-travel)
+    - [STEP 5: Job Types](#step-5-job-types)
+      - [Lessons Learned](#lessons-learned-1)
+    - [STEP 6: Unbundling Customer Profiles](#step-6-unbundling-customer-profiles)
+      - [Business](#business)
+      - [Families](#families)
+      - [Lessons Learned](#lessons-learned-2)
+    - [STEP 7: Exercise](#step-7-exercise)
+  - [LESSON 2: Customer Pains and Customer Gains](#lesson-2-customer-pains-and-customer-gains)
+    - [STEP 1: Lesson Objectives](#step-1-lesson-objectives)
+    - [STEP 2: Customer Pains](#step-2-customer-pains)
+      - [Lessons Learned](#lessons-learned-3)
+
+------------  
 # SECTION 1: Getting Started with the Value Proposition Canvas
 - [SECTION 1: Getting Started with the Value Proposition Canvas](#section-1-getting-started-with-the-value-proposition-canvas)
   - [LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done](#lesson-1-introduction-to-the-value-proposition-canvas-and-jobs-to-be-done)
@@ -77,6 +98,7 @@ ___
 ### STEP 4: Exercise - Jobs-To-Be-Done in Air Travel
 Example: Imagine you are traveling by airplane to a business meeting. What jobs are you trying to get done as a business traveler?
 
+```
 - find a ride to the airport
 - get to the hotel
 - entertainment (books, magazines, etc.)
@@ -94,7 +116,7 @@ Example: Imagine you are traveling by airplane to a business meeting. What jobs 
 - maintain healthy eating habits while traveling
 - maintain workout schedule while traveling
 - find a place to workout (run) in foreign location
-
+```
 
 ___
 ### STEP 5: Job Types
