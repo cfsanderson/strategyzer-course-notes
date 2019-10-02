@@ -1,24 +1,3 @@
-- [SECTION 1: Getting Started with the Value Proposition Canvas](#section-1-getting-started-with-the-value-proposition-canvas)
-  - [LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done](#lesson-1-introduction-to-the-value-proposition-canvas-and-jobs-to-be-done)
-    - [STEP 1: Welcome](#step-1-welcome)
-    - [STEP 2: Introduction](#step-2-introduction)
-    - [STEP 3: Customer Jobs-To-Be-Done](#step-3-customer-jobs-to-be-done)
-      - [Jobs-To-Be-Done](#jobs-to-be-done)
-      - [Lessons Learned](#lessons-learned)
-    - [STEP 4: Exercise - Jobs-To-Be-Done in Air Travel](#step-4-exercise---jobs-to-be-done-in-air-travel)
-    - [STEP 5: Job Types](#step-5-job-types)
-      - [Lessons Learned](#lessons-learned-1)
-    - [STEP 6: Unbundling Customer Profiles](#step-6-unbundling-customer-profiles)
-      - [Business](#business)
-      - [Families](#families)
-      - [Lessons Learned](#lessons-learned-2)
-    - [STEP 7: Exercise](#step-7-exercise)
-  - [LESSON 2: Customer Pains and Customer Gains](#lesson-2-customer-pains-and-customer-gains)
-    - [STEP 1: Lesson Objectives](#step-1-lesson-objectives)
-    - [STEP 2: Customer Pains](#step-2-customer-pains)
-      - [Lessons Learned](#lessons-learned-3)
-
-------------  
 # SECTION 1: Getting Started with the Value Proposition Canvas
 - [SECTION 1: Getting Started with the Value Proposition Canvas](#section-1-getting-started-with-the-value-proposition-canvas)
   - [LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done](#lesson-1-introduction-to-the-value-proposition-canvas-and-jobs-to-be-done)
@@ -35,10 +14,6 @@
       - [Families](#families)
       - [Lessons Learned](#lessons-learned-2)
     - [STEP 7: Exercise](#step-7-exercise)
-  - [LESSON 2: Customer Pains and Customer Gains](#lesson-2-customer-pains-and-customer-gains)
-    - [STEP 1: Lesson Objectives](#step-1-lesson-objectives)
-    - [STEP 2: Customer Pains](#step-2-customer-pains)
-      - [Lessons Learned](#lessons-learned-3)
 
 ___
 ## LESSON 1: Introduction to the Value Proposition Canvas and Jobs-To-Be-Done
@@ -66,7 +41,7 @@ The jobs-to-be done framework is the first of six building blocks within the Val
 
 Old way vs "Customer Jobs" way
 - Traditional marketing used to describe WHO we are targeting and WHAT they want
-- better to ask "what jobs are they trying to get done"
+- better to ask "what jobs are they trying to get done"****
   - Henry Ford "If I had asked what people wanted they would have said 'a faster horse'".
   - Ask customers not what products they want, ask what JOB they are trying to get done.
 
@@ -188,28 +163,4 @@ To complete this exercise:
 - Don't write on the canvas. Use sticky notes instead so you can move things around. Only write one idea per sticky note and don't use bullet points.
 - Use the [Customer Jobs Trigger Questions](../../resources/value-proposition-supporting-tools/customer-gains-trigger-questions.pdf) if you need help listing your customer's jobs.
 - Make sure you think of the jobs that really matter to your customers beyond those related directly to your products and services.
-
-___
-## LESSON 2: Customer Pains and Customer Gains  
-
-___
-### STEP 1: Lesson Objectives  
-Pains are the negative outcomes that your customers want to avoid. Gains are the positive outcomes that your customers aim to achieve.  
-
-___
-### STEP 2: Customer Pains  
-
-![screenshot_037](../assets/screenshot_037.png)
-![screenshot_038](../assets/screenshot_038.png)
-![screenshot_039](../assets/screenshot_039.png)
-![screenshot_040](../assets/screenshot_040.png)
-![screenshot_041](../assets/screenshot_041.png)
-![screenshot_042](../assets/screenshot_042.png)
-![screenshot_043](../assets/screenshot_043.png)
-
-#### Lessons Learned  
-- there are 3 types of pains: undesired outcomes, problems and dislikes / obstacles / risks
-- rank which pains customers perceive as severe and which ones as moderate
-- add pains one job at a time or in free form
-
 
