@@ -1,3 +1,4 @@
+# This is an H1
 ___
 ## LESSON 2: Customer Pains and Customer Gains  
 
@@ -49,7 +50,11 @@ How to Fill Out Gains in a Customer Profile
 ![screenshot_052](../assets/screenshot_052.png)
 
 #### Lessons Learned
-- there are fourd types of gains: required, expected, desired, and unexpected
+- there are four types of gains:
+  - required
+  - expected
+  - desired
+  - unexpected
 - rank which gains customers perceive as essential and which ones as nice-to-have
 - add gains one job at a time or in free form
 
@@ -62,13 +67,50 @@ ___
 
 #### Mistakes:
 1. Sketching out your customer profile with value proposition in mind
-2. 
+   - step into customer's shoes (empathy)
+2. Focussing on too few Jobs, Pains, and Gains
+3. Focussing on funtional jobs only
+   - not just commuting to work, personal mobility, occasional long trip as in Tesla example
+   - social and emotional too
+4. Mixing jobs and outcomes
+   - jobs describe WHAT they want to get done
+   - pains describe what they want to AVOID
+   - gains describe what they want to ACHIEVE
+5. Being too vague with pains and gains
+   - "250-350km" exactly vs "get to work"
+6. Mixing too many **customers** into one profile
 
 ___
-### STEP 6: Exercise  
+### STEP 6: Exercise - Map Out your Customer’s Pains and Gains
+
+[See Figma](https://www.figma.com/file/mfgXjtyyBFfbUmVoIt1uQD/Strategyzer?node-id=3%3A248)
+
+To do this exercise:
+
+- Retrieve the Customer Profile that you started working on and add the customer pains and gains on sticky notes.
+- Use the  if you need help listing your customer's pains.
+- Use the  if you need help listing your customer's gains.
+- Remember to go deep on customer pains and gains. The more you have, the better your understanding of your customers.
 
 ___
 ### STEP 7: Identify High-Value Jobs  
+
+![screenshot_054](../assets/screenshot_054.png)
+![screenshot_055](../assets/screenshot_055.png)
+![screenshot_056](../assets/screenshot_056.png)
+![screenshot_057](../assets/screenshot_057.png)
+![screenshot_058](../assets/screenshot_058.png)
+![screenshot_059](../assets/screenshot_059.png)
+![screenshot_060](../assets/screenshot_060.png)
+![screenshot_061](../assets/screenshot_061.png)
+![screenshot_062](../assets/screenshot_062.png)
+![screenshot_063](../assets/screenshot_063.png)
+
+**Lessons Learned:**
+- It's not enough to just look at which jobs are important to customers
+- Some important jobs are more interesting to address for you as an organization than others
+- High-value jobs are particularly important, tangible, unsatisfied, and lucrative
+
 
 ___
 ### STEP 8: Exercise
